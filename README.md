@@ -42,7 +42,7 @@
 ### 2. Instalar el Plugin
 
 1.  **Descarga el archivo del plugin:**
-    [`GPTAssistant.plugin.js`](./GPTAssistant.plugin.js)
+    [`GPTAssistant.plugin.js`](./GptAssistant.plugin.js)
     *(Nota: Aunque el nombre del archivo aún es GPTAssistant, el plugin ha sido actualizado a Gemini).*
 
 2.  **Abre tu carpeta de plugins de BetterDiscord.**
